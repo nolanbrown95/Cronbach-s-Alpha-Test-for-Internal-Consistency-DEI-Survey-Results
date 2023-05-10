@@ -1,5 +1,9 @@
 # Cronbach-s-Alpha-Test-for-Internal-Consistency-DEI-Survey-Results
 Collaborator @JulianGendreau —> https://github.com/JulianGendreau
+
+
+
+
 Call:
 glm(formula = Eight ~ PostFellowshipTraining + Fellowship + Residency + 
     MedicalSchool)
